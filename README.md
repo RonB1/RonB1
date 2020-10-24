@@ -1,16 +1,15 @@
-### Hi there 👋
+![](https://d31dn7nfpuwjnm.cloudfront.net/images/valoraciones/0027/0719/como-funciona-bolsa-valores-nueva-york-nyse.png?1493908291)
 
-<!--
-**RonB1/RonB1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bienvenido a mi repos
 
-Here are some ideas to get you started:
+## Mi nombre es Ronaldo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Soy estudiante de bachillerato general y tecnico
+  
+*Me gusta
+*Me gusta
+*Me gusta
+
+```
+digitalWrite(13,HIGH) Hola mundo
+```
