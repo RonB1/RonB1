@@ -6,9 +6,9 @@
 
   Soy estudiante de bachillerato general y tecnico
   
-*Me gusta
-*Me gusta
-*Me gusta
+*Me gusta programar
+*Me gustan las finanzas
+*Me gusta el diseño
 
 ```
 digitalWrite(13,HIGH) Hola mundo
